@@ -1,2 +1,5 @@
 # VueJS
-Curso vue js
+
+Learning VueJS
+
+[Udemy](https://www.udemy.com/course/vue-js-guia-completo/)
